@@ -1,0 +1,19 @@
+{
+  "name": "npm_playground",
+  "version": "unspecified",
+  "private": true,
+  "workspaces": [
+    "packages/npm_playground-bobbing-4237-playground-js-legacy",
+    "packages/npm_playground-bobbing-4237-playground-js-legacy-test",
+    "packages/npm_playground-bobbing-4237-playground-js-ir",
+    "packages/npm_playground-bobbing-4237-playground-js-ir-test",
+    "packages_imported/kotlin/1.6.21",
+    "packages_imported/kotlin-test-js-runner/1.6.21"
+  ],
+  "resolutions": {},
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

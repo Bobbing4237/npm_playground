@@ -1,0 +1,18 @@
+{
+  "name": "bobbing-4237-playground",
+  "version": "0.1.1",
+  "main": "index.js",
+  "description": "Assets for npm playground",
+  "homepage": "https://github.com/Bobbing4237/npm_playground",
+  "license": "Apache 2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bobbing4237/npm_playground.git"
+  },
+  "author": {
+    "name": "Bobbing 4237"
+  },
+  "bugs": {
+    "url": "https://github.com/Bobbing4237/npm_playground/issues"
+  }
+}
