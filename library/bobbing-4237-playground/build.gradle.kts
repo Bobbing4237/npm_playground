@@ -24,7 +24,7 @@ npmPublishing {
                 }
             }
             packageJson {
-                version = "0.1.1"
+                version = "4.7.11-1+1.3.1"
                 description = "Assets for npm playground"
                 homepage = "https://github.com/Bobbing4237/npm_playground"
                 license = "Apache 2.0"
